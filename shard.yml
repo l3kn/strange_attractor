@@ -1,0 +1,22 @@
+name: attraktor
+version: 0.1.0
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of attraktor
+
+dependencies:
+  linalg:
+    github: l3kn/linalg
+  stumpy_png:
+    github: l3kn/stumpy_png
+  stumpy_utils:
+    github: l3kn/stumpy_utils
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
