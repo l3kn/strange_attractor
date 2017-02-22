@@ -5,7 +5,7 @@ and convert it to a 3D model.
 
 ## Examples
 
-![Lorenz Attractor](images/lornez.png)
+![Lorenz Attractor](images/lorenz.png)
 
 ## Credits
 
